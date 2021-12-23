@@ -1,2 +1,3 @@
-# modulo3
-curso de HTML 5 e CSS 3 do curso em video
+# projecto html 
+O projecto de html e CSS , do desafio do modulo 2 de html e css do Gustavo Guanabara
+
